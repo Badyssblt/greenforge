@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Blueprints/Components/BP_InventoryComponent.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Data/Structs/S_ItemData.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Data/Enums/E_ItemType.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Data/Structs/S_ItemCount.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Blueprints/Character/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Blueprints/Character/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Blueprints/Character/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Input/IMC_Default.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Data/Enums/E_ItemID.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Blueprints/Library/BFL_Inventory.uasset",
+				"C:/Users/badys/Documents/Unreal Projects/GreenForge/Content/Data/DataTables/DT_Items.uasset"
+			]
+		}
+	]
+}
